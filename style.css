@@ -163,7 +163,7 @@ h1,
 .bayan-label:active .control-decorate{
   background-color: var(--color-title);
 }
-@media (min-width: 820px) {
+@media (min-width: 800px) {
   body{
     font-size: 1em;
   } 
@@ -171,7 +171,7 @@ h1,
     width: 45em;  
   }
 }
-@media (min-width: 1920px) {
+@media (min-width: 1300px) {
   body{
     font-size: 1.5em;
   } 
