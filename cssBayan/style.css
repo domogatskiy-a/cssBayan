@@ -170,7 +170,8 @@ h1,
 .bayan-label:active .picture-img{
   opacity: .8;
 }
-.bayan-label:active .control-decorate{
+.bayan-label:active .control-decorate .line1,
+.bayan-label:active .control-decorate .line2{
   background-color: var(--color-title);
 }
 @media (min-width: 800px) {
